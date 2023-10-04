@@ -1,7 +1,12 @@
 .card {
     width:350px;
     min-height: 230px;
-    border: 5px solid grey;
+    border-bottom: 5px solid #006AFF;
+    box-shadow: 0 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .picture-section {
     height:150px;
@@ -27,5 +32,25 @@
 }
 .info {
     padding: 8px;
-    color; #2d3
+    color: #2D3748;
+}
+.listing {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4px;
+}
+.price {
+    font-size: 24px;
+    font-weight:bold;
+}
+.address {
+    font-weight:bold;
+    margin-bottom: 4px;
+}
+.type {
+    font-size: 12px
+}
+a {
+    text-decoration: none;
 }
