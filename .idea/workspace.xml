@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c99fc5d-acb8-4c7a-bb12-6f19f06f2f0b" name="Changes" comment="Houses">
+    <list default="true" id="0c99fc5d-acb8-4c7a-bb12-6f19f06f2f0b" name="Changes" comment="Added things">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
@@ -58,7 +58,7 @@
       <updated>1696370002611</updated>
       <workItem from="1696370003754" duration="30000" />
       <workItem from="1696370045930" duration="1425000" />
-      <workItem from="1696454699450" duration="982000" />
+      <workItem from="1696454699450" duration="2584000" />
     </task>
     <task id="LOCAL-00001" summary="Houses">
       <created>1696371415703</created>
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696371415703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added things">
+      <created>1696455955010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696455955010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Houses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Houses" />
+    <MESSAGE value="Added things" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added things" />
   </component>
 </project>
